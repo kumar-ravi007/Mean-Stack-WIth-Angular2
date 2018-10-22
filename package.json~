@@ -1,0 +1,26 @@
+{
+  "name": "mean-angular2",
+  "version": "1.0.0",
+  "description": "Meand Stack With Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumar-ravi007/Mean-Stack-WIth-Angular2.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Ravi Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumar-ravi007/Mean-Stack-WIth-Angular2/issues"
+  },
+  "homepage": "https://github.com/kumar-ravi007/Mean-Stack-WIth-Angular2#readme"
+}

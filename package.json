@@ -1,0 +1,31 @@
+{
+  "name": "mean-angular2",
+  "version": "1.0.0",
+  "description": "Mean Stack With Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumar-ravi007/Mean-Stack-WIth-Angular2.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Ravi Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumar-ravi007/Mean-Stack-WIth-Angular2/issues"
+  },
+  "homepage": "https://github.com/kumar-ravi007/Mean-Stack-WIth-Angular2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.3.4"
+  }
+}
