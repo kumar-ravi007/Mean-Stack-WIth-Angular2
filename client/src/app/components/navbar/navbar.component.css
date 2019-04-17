@@ -1,0 +1,5 @@
+.navbar-default .navbar-nav>li.active a {
+    background-color: #d3d3d3;
+}
+.navbar-dark .navbar-nav .nav-link { color: #fff;}
+.navbar-dark { margin-bottom: 20px;}
